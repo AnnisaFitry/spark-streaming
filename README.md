@@ -34,16 +34,16 @@ StreamingContext: Ini adalah kelas inti dalam Spark Streaming. Ini digunakan unt
 ## Praktikum 1
 ### Metode 1: Mode Stateless Stream Processing
 #### 1 detik
-![]()
+![](img/1.png)
 #### 5 detik
-![]()
+![](img/2.png)
 
 ### Metode 2: Mode Stateful Stream Processing
-![]()
+![](img/3.png)
 
 ## Praktikum 2
 Melakukan Transformasi di Spark Streaming
-![]()
+![](img/4.png)
 
 
 
